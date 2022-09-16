@@ -1,0 +1,7 @@
+#result{
+    display: inline;
+  }
+  
+  .thumbnail {
+    display: inherit;
+  }
